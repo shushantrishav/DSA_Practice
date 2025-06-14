@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shushantrishav/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shushantrishav/DSA_Practice/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shushantrishav/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/shushantrishav/DSA_Practice/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0516-longest-palindromic-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shushantrishav/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/1250-longest-common-subsequence) |
@@ -36,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shushantrishav/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/1250-longest-common-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
