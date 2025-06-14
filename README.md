@@ -24,4 +24,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shushantrishav/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [1250-longest-common-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/1250-longest-common-subsequence) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
