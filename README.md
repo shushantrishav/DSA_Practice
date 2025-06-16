@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/shushantrishav/DSA_Practice/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/shushantrishav/DSA_Practice/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shushantrishav/DSA_Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shushantrishav/DSA_Practice/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
