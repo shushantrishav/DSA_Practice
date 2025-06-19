@@ -19,7 +19,7 @@ class Solution:
         k = k % length
         if k == 0:
             return head
-            
+
         # Step 3: Make it circular
         tail.next = head
 
