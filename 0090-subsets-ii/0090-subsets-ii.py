@@ -1,24 +1,18 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        def solve(index, subset):
-            if index == len(nums):
-                result.append(subset[:])
-                return
+        def DFS(start, subset):
+            result.append(subset[:])
 
-            # Include nums[index]
-            subset.append(nums[index])
-            solve(index + 1, subset)
-            subset.pop()  # Backtrack
+            for i in range(start, len(nums)):
+                # Skip duplicates at the same recursion depth
+                if i > start and nums[i] == nums[i-1]:
+                    continue
 
-            # Skip duplicates when excluding
-            next_index = index + 1
-            while next_index < len(nums) and nums[next_index] == nums[index]:
-                next_index += 1
+                subset.append(nums[i])
+                DFS(i + 1, subset)
+                subset.pop()  # DFS
 
-            # Exclude nums[index] and all its duplicates
-            solve(next_index, subset)
-
-        nums.sort()  # Sort to handle duplicates
+        nums.sort()
         result = []
-        solve(0, [])
+        DFS(0, [])
         return result
