@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shushantrishav/DSA_Practice/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shushantrishav/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shushantrishav/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shushantrishav/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shushantrishav/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shushantrishav/DSA_Practice/tree/master/0908-middle-of-the-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
