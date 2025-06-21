@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/shushantrishav/DSA_Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/shushantrishav/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/shushantrishav/DSA_Practice/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/shushantrishav/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shushantrishav/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shushantrishav/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/shushantrishav/DSA_Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shushantrishav/DSA_Practice/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/shushantrishav/DSA_Practice/tree/master/0062-unique-paths) |
 ## Binary Search
 |  |
