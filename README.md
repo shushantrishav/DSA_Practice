@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/shushantrishav/DSA_Practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/shushantrishav/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/shushantrishav/DSA_Practice/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shushantrishav/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shushantrishav/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [1036-rotting-oranges](https://github.com/shushantrishav/DSA_Practice/tree/master/1036-rotting-oranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shushantrishav/DSA_Practice/tree/master/0146-lru-cache) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/shushantrishav/DSA_Practice/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
