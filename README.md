@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shushantrishav/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shushantrishav/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shushantrishav/DSA_Practice/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/shushantrishav/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shushantrishav/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shushantrishav/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shushantrishav/DSA_Practice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/shushantrishav/DSA_Practice/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shushantrishav/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/shushantrishav/DSA_Practice/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shushantrishav/DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shushantrishav/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/shushantrishav/DSA_Practice/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
