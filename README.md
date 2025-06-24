@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shushantrishav/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/shushantrishav/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/shushantrishav/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shushantrishav/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shushantrishav/DSA_Practice/tree/master/0493-reverse-pairs) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/shushantrishav/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/shushantrishav/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/shushantrishav/DSA_Practice/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shushantrishav/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shushantrishav/DSA_Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shushantrishav/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/shushantrishav/DSA_Practice/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shushantrishav/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shushantrishav/DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shushantrishav/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shushantrishav/DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shushantrishav/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -228,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/shushantrishav/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/shushantrishav/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shushantrishav/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -240,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/shushantrishav/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shushantrishav/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
