@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shushantrishav/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shushantrishav/DSA_Practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shushantrishav/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shushantrishav/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/shushantrishav/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shushantrishav/DSA_Practice/tree/master/0072-edit-distance) |
@@ -305,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shushantrishav/DSA_Practice/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shushantrishav/DSA_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
