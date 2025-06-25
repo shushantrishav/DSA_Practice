@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shushantrishav/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shushantrishav/DSA_Practice/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/shushantrishav/DSA_Practice/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
@@ -314,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shushantrishav/DSA_Practice/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/shushantrishav/DSA_Practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
