@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shushantrishav/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/shushantrishav/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shushantrishav/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shushantrishav/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/shushantrishav/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/shushantrishav/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shushantrishav/DSA_Practice/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/shushantrishav/DSA_Practice/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/shushantrishav/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shushantrishav/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/1250-longest-common-subsequence) |
