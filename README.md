@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shushantrishav/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shushantrishav/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shushantrishav/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/shushantrishav/DSA_Practice/tree/master/0937-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shushantrishav/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/shushantrishav/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/shushantrishav/DSA_Practice/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -269,10 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shushantrishav/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/shushantrishav/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/shushantrishav/DSA_Practice/tree/master/0460-lfu-cache) |
+| [0937-online-stock-span](https://github.com/shushantrishav/DSA_Practice/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/shushantrishav/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/shushantrishav/DSA_Practice/tree/master/0937-online-stock-span) |
 ## Bucket Sort
 |  |
 | ------- |
