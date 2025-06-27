@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shushantrishav/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/shushantrishav/DSA_Practice/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/shushantrishav/DSA_Practice/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
@@ -322,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shushantrishav/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/shushantrishav/DSA_Practice/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/shushantrishav/DSA_Practice/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
