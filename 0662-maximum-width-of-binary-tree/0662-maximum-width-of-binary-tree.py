@@ -9,22 +9,24 @@ class Solution:
         if not root:
             return 0
 
-        self.max_width = 0
-        first_pos_per_level = {}
+        max_width = 0
+        queue = deque()
+        queue.append((root, 0))  # (node, position)
 
-        def dfs(node, level, pos):
-            if not node:
-                return
+        while queue:
+            level_size = len(queue)
+            _, first_pos = queue[0]  # position of first node at this level
+            for _ in range(level_size):
+                node, pos = queue.popleft()
+                # Normalize pos relative to first_pos at this level
+                norm_pos = pos - first_pos
 
-            # Record first position seen at this level
-            if level not in first_pos_per_level:
-                first_pos_per_level[level] = pos
+                if node.left:
+                    queue.append((node.left, 2 * norm_pos))
+                if node.right:
+                    queue.append((node.right, 2 * norm_pos + 1))
+            # Compute width using positions relative to first_pos
+            last_pos = norm_pos  # norm_pos from last node processed at this level
+            max_width = max(max_width, last_pos + 1)
 
-            current_width = pos - first_pos_per_level[level] + 1
-            self.max_width = max(self.max_width, current_width)
-
-            dfs(node.left, level + 1, 2 * pos)
-            dfs(node.right, level + 1, 2 * pos + 1)
-
-        dfs(root, 0, 0)
-        return self.max_width
+        return max_width
