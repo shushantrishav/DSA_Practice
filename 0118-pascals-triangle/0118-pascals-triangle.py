@@ -1,7 +1,6 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         result = []
-        
         for rows in range(numRows):
             ans = 1
             ansRow = [1]
@@ -9,5 +8,5 @@ class Solution:
                 ans = (ans * (rows - col+1)) // col
                 ansRow.append(ans)
             result.append(ansRow)
-
         return result
+
