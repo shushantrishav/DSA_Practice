@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/shushantrishav/DSA_Practice/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/shushantrishav/DSA_Practice/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/1250-longest-common-subsequence) |
+| [1508-longest-happy-prefix](https://github.com/shushantrishav/DSA_Practice/tree/master/1508-longest-happy-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -324,4 +325,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shushantrishav/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/shushantrishav/DSA_Practice/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/shushantrishav/DSA_Practice/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/shushantrishav/DSA_Practice/tree/master/1508-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/shushantrishav/DSA_Practice/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/shushantrishav/DSA_Practice/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
