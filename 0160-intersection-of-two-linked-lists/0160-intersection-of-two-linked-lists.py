@@ -9,10 +9,10 @@ class Solution:
         if not headA or not headB:
             return None
 
-        pA, pB = headA, headB
+        ptrA, ptrB = headA, headB
 
-        while pA != pB:
-            pA = pA.next if pA else headB
-            pB = pB.next if pB else headA
+        while ptrA != ptrB:
+            ptrA = ptrA.next if ptrA else headB
+            ptrB = ptrB.next if ptrB else headA
 
-        return pA 
+        return ptrA 
