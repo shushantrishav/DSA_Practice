@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shushantrishav/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/shushantrishav/DSA_Practice/tree/master/0801-is-graph-bipartite) |
 ## Sliding Window
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shushantrishav/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shushantrishav/DSA_Practice/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/shushantrishav/DSA_Practice/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/shushantrishav/DSA_Practice/tree/master/1036-rotting-oranges) |
 ## Monotonic Queue
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shushantrishav/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shushantrishav/DSA_Practice/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/shushantrishav/DSA_Practice/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/shushantrishav/DSA_Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/shushantrishav/DSA_Practice/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/shushantrishav/DSA_Practice/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
