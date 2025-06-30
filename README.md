@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/shushantrishav/DSA_Practice/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/1250-longest-common-subsequence) |
 | [1508-longest-happy-prefix](https://github.com/shushantrishav/DSA_Practice/tree/master/1508-longest-happy-prefix) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/shushantrishav/DSA_Practice/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/shushantrishav/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/shushantrishav/DSA_Practice/tree/master/0455-assign-cookies) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/shushantrishav/DSA_Practice/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Recursion
 |  |
 | ------- |
