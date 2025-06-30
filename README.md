@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shushantrishav/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/1250-longest-common-subsequence) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shushantrishav/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shushantrishav/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0783-search-in-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
