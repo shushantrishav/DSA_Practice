@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/shushantrishav/DSA_Practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/shushantrishav/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shushantrishav/DSA_Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shushantrishav/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/shushantrishav/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shushantrishav/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shushantrishav/DSA_Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shushantrishav/DSA_Practice/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shushantrishav/DSA_Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shushantrishav/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shushantrishav/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/shushantrishav/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/shushantrishav/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/shushantrishav/DSA_Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/shushantrishav/DSA_Practice/tree/master/1352-maximum-profit-in-job-scheduling) |
