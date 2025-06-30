@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shushantrishav/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shushantrishav/DSA_Practice/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/shushantrishav/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/shushantrishav/DSA_Practice/tree/master/0239-sliding-window-maximum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shushantrishav/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shushantrishav/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/shushantrishav/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/shushantrishav/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shushantrishav/DSA_Practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shushantrishav/DSA_Practice/tree/master/1036-rotting-oranges) |
 ## Monotonic Stack
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/shushantrishav/DSA_Practice/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shushantrishav/DSA_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/shushantrishav/DSA_Practice/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/shushantrishav/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shushantrishav/DSA_Practice/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shushantrishav/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shushantrishav/DSA_Practice/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shushantrishav/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shushantrishav/DSA_Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/shushantrishav/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shushantrishav/DSA_Practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shushantrishav/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
