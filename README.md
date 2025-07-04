@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/shushantrishav/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/shushantrishav/DSA_Practice/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shushantrishav/DSA_Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/shushantrishav/DSA_Practice/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shushantrishav/DSA_Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shushantrishav/DSA_Practice/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shushantrishav/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/shushantrishav/DSA_Practice/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Counting
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shushantrishav/DSA_Practice/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/shushantrishav/DSA_Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/shushantrishav/DSA_Practice/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## String Matching
 |  |
 | ------- |
