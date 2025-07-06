@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shushantrishav/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/shushantrishav/DSA_Practice/tree/master/0733-flood-fill) |
+| [0907-koko-eating-bananas](https://github.com/shushantrishav/DSA_Practice/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/shushantrishav/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/shushantrishav/DSA_Practice/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shushantrishav/DSA_Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shushantrishav/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/shushantrishav/DSA_Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shushantrishav/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/shushantrishav/DSA_Practice/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/shushantrishav/DSA_Practice/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Bit Manipulation
 |  |
